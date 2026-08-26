@@ -215,10 +215,6 @@ To evaluate the effectiveness of MTCMOS power gating, conventional CMOS and MTCM
 * **Transmission Gate Logic**
 * **Low-Power VLSI Design**
 
----
-
-## 📂 Repository Structure
-
 
 ---
 
