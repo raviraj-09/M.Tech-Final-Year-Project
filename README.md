@@ -249,4 +249,4 @@ Future work can focus on:
 **Ravi Raj**  
 M.Tech – VLSI Design  
 Gaya College of Engineering, Gaya  
-🌐 **[LinkedIn: Ravi Raj](https://www.linkedin.com/in/ravi-raj-06s1/)**
+🌐 LinkedIn: **[Ravi Raj](https://www.linkedin.com/in/ravi-raj-06s1/)**
