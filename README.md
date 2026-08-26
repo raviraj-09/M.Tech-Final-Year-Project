@@ -219,28 +219,6 @@ To evaluate the effectiveness of MTCMOS power gating, conventional CMOS and MTCM
 
 ## 📂 Repository Structure
 
-```text
-MTCMOS-RCA-CSLA-90nm/
-│
-├── README.md
-│
-├── diagrams/
-│   ├── 28T-full-adder/
-│   ├── TG-MUX/
-│   ├── RCA/
-│   ├── CSLA/
-│   └── MTCMOS/
-│
-├── simulation-results/
-│   ├── RCA/
-│   ├── CSLA/
-│   └── MTCMOS/
-│
-├── results/
-│   └── performance-comparison/
-│
-└── documentation/
-```
 
 ---
 
