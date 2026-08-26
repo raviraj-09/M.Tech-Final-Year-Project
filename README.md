@@ -165,6 +165,29 @@ The implemented architectures were evaluated using:
 * CSLA achieves a lower PDP despite its higher power consumption because of its substantially lower delay.
 * MTCMOS power gating significantly reduces standby leakage while maintaining acceptable circuit performance.
 
+--- 
+
+## ⚡ CMOS vs MTCMOS Performance Comparison
+
+To evaluate the effectiveness of MTCMOS power gating, conventional CMOS and MTCMOS-based RCA and CSLA architectures were compared under identical simulation conditions.
+
+| Architecture | Power CMOS (µW) | Power MTCMOS (µW) | Delay CMOS (ps) | Delay MTCMOS (ps) | PDP CMOS (fJ) | PDP MTCMOS (fJ) | PDP Improvement |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 16-bit RCA | 6.42 | 5.55 | 1435 | 1455 | 9.21 | 8.07 | 12.34% |
+| 16-bit CSLA | 8.25 | 6.18 | 872 | 890 | 7.19 | 5.55 | 23.54% |
+| 32-bit RCA | 12.40 | 10.53 | 2870 | 2910 | 35.58 | 30.65 | 13.86% |
+| 32-bit CSLA | 15.65 | 11.65 | 1375 | 1405 | 21.52 | 16.36 | 23.93% |
+
+### Key Findings
+
+- MTCMOS reduced the operating power of both RCA and CSLA architectures.
+- The **32-bit CSLA** showed the highest PDP improvement of **23.93%**.
+- MTCMOS significantly reduced standby leakage through the use of a **PMOS header sleep transistor**.
+- A small propagation-delay overhead was observed after MTCMOS integration due to the additional resistance in the power delivery path.
+- Proper sleep transistor sizing helped maintain acceptable delay while achieving significant leakage reduction.
+- The results demonstrate the effectiveness of MTCMOS power gating for low-power VLSI arithmetic circuits.
+
+
 ---
 
 ## 📈 Key Contributions
