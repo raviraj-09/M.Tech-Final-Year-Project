@@ -223,11 +223,11 @@ MTCMOS-RCA-CSLA-90nm/
 
 ## 📚 Project Information
 
-**Degree:** M.Tech – VLSI Design
-**Institution:** Gaya College of Engineering, Gaya
-**Project Duration:** December 2025 – August 2026
-**Supervisor:** Dr. Mrinal Ranjan
-**Co-Supervisor:** Dr. Rajan Sarkar
+**Degree:** M.Tech – VLSI Design  
+**Institution:** Gaya College of Engineering, Gaya  
+**Project Duration:** December 2025 – August 2026  
+**Supervisor:** Dr. Mrinal Ranjan  
+**Co-Supervisor:** Dr. Rajan Sarkar  
 
 ---
 
