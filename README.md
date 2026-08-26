@@ -206,6 +206,7 @@ To evaluate the effectiveness of MTCMOS power gating, conventional CMOS and MTCM
 
 * **Cadence Virtuoso**
 * **Cadence Spectre**
+* **MATLAB for Analysis**
 * **90 nm CMOS / GPDK090**
 * **CMOS Transistor-Level Design**
 * **MTCMOS**
