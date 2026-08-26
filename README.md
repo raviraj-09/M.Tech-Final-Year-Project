@@ -247,7 +247,6 @@ Future work can focus on:
 ## 👨‍💻 Author
 
 **Ravi Raj**
-* Post-layout parasitic analysis.
 M.Tech – VLSI Design
 Gaya College of Engineering, Gaya
 🌐 **LinkedIn:** [Ravi Raj](https://www.linkedin.com/in/ravi-raj-06s1/)
