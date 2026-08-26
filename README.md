@@ -247,8 +247,8 @@ Future work can focus on:
 ## 👨‍💻 Author
 
 **Ravi Raj**  
-Master of Technology
-Electronics & Communication Engineering
-(Specialization in VLSI Design)
-Gaya College of Engineering, Gaya, Bihar - 823003
+Master of Technology  
+Electronics & Communication Engineering  
+(Specialization in VLSI Design)  
+Gaya College of Engineering, Gaya, Bihar - 823003  
 🌐 LinkedIn: **[Ravi Raj](https://www.linkedin.com/in/ravi-raj-06s1/)**
